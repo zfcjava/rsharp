@@ -24,7 +24,7 @@ apply plugin: 'com.canjun.rsharp'
 ...
 rsharp{
 		//新的包名
-    newPackageName = "com.kpt.android"
+    newPackageName = "com.xxx.android"
     //现有包名
     oldPackageName = "com.dirk.rsharp"
     //额外检查的文件名称或者目录，相对于当 当前module的根目录
